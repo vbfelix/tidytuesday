@@ -34,9 +34,6 @@ fifty_states %>%
                 mutate(id = tolower(State))) %>% 
   filter(is.na(Year)==F) ->df_map
 
-map<-get_map(location='united states', zoom=4,
-             source='google',color='color')
-
 
 # Plot --------------------------------------------------------------------
 
