@@ -7,7 +7,7 @@ library(ggplot2)
 library(tidyr)
 library(ggmap)
 library(fiftystater)
-
+library(grid)
 
 # Import ------------------------------------------------------------------
 
@@ -69,7 +69,6 @@ df_map %>%
 
 # Union -------------------------------------------------------------------
 
-library(grid)
 grid1 <- viewport(width = 1, height = 1, x = 0.5, y = 0.5) 
 grid2 <- viewport(width = 0.25, 
                  height = .327,
