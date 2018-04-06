@@ -2,5 +2,5 @@ Tidy tuesday is a weekly project that builds off #makeovermonday style projects 
 
 This repository contains my contributions to the project.
 
-<img src="img/DZ7f2MVX4AE736b.jpg" title="Tidy Tuesday 001 - US Tuition" alt="" width="432" />
+<img src="imgs/DZ7f2MVX4AE736b.jpg" title="Tidy Tuesday 001 - US Tuition" alt="" width="432" />
 
