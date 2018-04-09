@@ -4,7 +4,7 @@ This repository contains my contributions to the project.
 
  - Tidy Tuesday 001 - US Tuition
 <div style="display: flex; justify-content: center;">
-<img src="imgs/DZ7f2MVX4AE736b.jpg" title="Tidy Tuesday 001 - US Tuition" alt="" width="632" height="432" align="center" />
+<img src="imgs/DZ7f2MVX4AE736b.jpg" title="Tidy Tuesday 001 - US Tuition" alt="" width="632" height="432"  />
 </div>
  - Tidy Tuesday 002 - Top 16 NFL players
  
