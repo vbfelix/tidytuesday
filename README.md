@@ -8,4 +8,4 @@ This repository contains my contributions to the project.
 
  - Tidy Tuesday 002 - Top 16 NFL players
  
- <img src="/002 - Average pay (NFL)/tt002.png" title="Tidy Tuesday 002 - Top 16 QB" alt="" width="432" />
+ <img src="/002 - Average pay (NFL)/tt002.jpg" title="Tidy Tuesday 002 - Top 16 QB" alt="" width="432" />
