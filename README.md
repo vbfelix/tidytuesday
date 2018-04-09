@@ -6,3 +6,6 @@ This repository contains my contributions to the project.
 
 <img src="imgs/DZ7f2MVX4AE736b.jpg" title="Tidy Tuesday 001 - US Tuition" alt="" width="432" />
 
+ - Tidy Tuesday 002 - Top 16 NFL players
+ 
+ <img src="/002 - Average pay (NFL)/tt002.png" title="Tidy Tuesday 002 - Top 16 QB" alt="" width="432" />
