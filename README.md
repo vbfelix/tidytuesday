@@ -8,4 +8,4 @@ This repository contains my contributions to the project, e.g.,
  
  v1
  
- ![Alt text](tidytuesday/imgs/image.png?raw=true "Title")
+ ![Alt text](tidytuesday/imgs/image.png "Title")
