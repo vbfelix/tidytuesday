@@ -8,4 +8,4 @@ This repository contains my contributions to the project, e.g.,
  
  v1
  
- ![Alt text](tidytuesday/imgs/image.png "Title")
+ ![Alt text](https://raw.githubusercontent.com/vbfelix/tidytuesday/master/imgs/image.png)
