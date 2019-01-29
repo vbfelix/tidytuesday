@@ -5,3 +5,7 @@ This repository contains my contributions to the project, e.g.,
  - Tidy Tuesday - 2018 - 002 - Top 16 NFL players
  
  <img src= "tidytuesday/imgs/image.png" title="Tidy Tuesday 002 - Top 16 QB" alt=""  width="650" height="432"/>
+ 
+ v1
+ 
+ ![Alt text](tidytuesday/imgs/image.png?raw=true "Title")
