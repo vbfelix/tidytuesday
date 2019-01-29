@@ -4,4 +4,4 @@ This repository contains my contributions to the project, e.g.,
 
  - Tidy Tuesday - 2018 - 002 - Top 16 NFL players
  
- <img src="/002 - Average pay (NFL)/tt002.jpg.jpg" title="Tidy Tuesday 002 - Top 16 QB" alt=""  width="650" height="432"/>
+ <img src="/tidytuesday/2018/2018 - 002 - Average pay (NFL)/tt002.jpg.jpg" title="Tidy Tuesday 002 - Top 16 QB" alt=""  width="650" height="432"/>
