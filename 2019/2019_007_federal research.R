@@ -22,6 +22,8 @@ glimpse(df)
 
 summary(df)
 
+n <- df %>% nrow()
+
 
 df %>% 
   mutate(rd1 = c(rd_bil[1:(n-1)],NA)) %>% 
